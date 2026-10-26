@@ -3009,6 +3009,16 @@
     "official": true
   },
   {
+    "name": "AgentFEM MCP",
+    "url": "https://github.com/haoming-luo/agentfem-mcp",
+    "description": "Create, validate and run finite-element projects and inspect numerical results through local stdio tools, with a separately installed compatible AgentFEM scientific runtime.",
+    "category": "utilities-and-examples",
+    "language": "Python",
+    "provider": "AgentFEM",
+    "tags": ["finite-element", "simulation", "scientific-computing", "local"],
+    "official": true
+  },
+  {
     "name": "Latchkey",
     "url": "https://latchkey.dev/documentation/connect-your-ai-agent",
     "description": "Official hosted MCP server for Latchkey's self-healing GitHub Actions runners: failure bundles with root cause and logs, run status, workflow dispatch, and one-off commands on fresh ephemeral runners.",
